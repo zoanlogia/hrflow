@@ -1,10 +1,10 @@
-import HomePage from "./pages/HomePage"
+import AppRouter from "./router/Router"
 
 const App = () => {
 
   return (
     <>
-      <HomePage />
+      <AppRouter />
     </>
   )
 }
